@@ -1,0 +1,8 @@
+{
+  "name": "পড়ালেখা",
+  "description": "A complete offline-first Udemy clone tailored for Bangladeshi users, featuring role-based routing (Student, Instructor, Admin), interactive course creation, curriculum viewing, certificate generation, checkout, and local Room persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
